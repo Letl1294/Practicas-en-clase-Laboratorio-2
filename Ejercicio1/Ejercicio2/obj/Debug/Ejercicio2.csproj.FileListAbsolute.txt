@@ -1,0 +1,6 @@
+D:\Lucas Torres\Ejercicio1\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+D:\Lucas Torres\Ejercicio1\Ejercicio2\bin\Debug\Ejercicio2.exe
+D:\Lucas Torres\Ejercicio1\Ejercicio2\bin\Debug\Ejercicio2.pdb
+D:\Lucas Torres\Ejercicio1\Ejercicio2\obj\Debug\Ejercicio2.csproj.CoreCompileInputs.cache
+D:\Lucas Torres\Ejercicio1\Ejercicio2\obj\Debug\Ejercicio2.exe
+D:\Lucas Torres\Ejercicio1\Ejercicio2\obj\Debug\Ejercicio2.pdb
