@@ -1,0 +1,8 @@
+c:\users\lucas\documents\visual studio 2013\Projects\Torres.Lucas.2\VistaConsola\bin\Debug\VistaConsola.exe.config
+c:\users\lucas\documents\visual studio 2013\Projects\Torres.Lucas.2\VistaConsola\bin\Debug\VistaConsola.exe
+c:\users\lucas\documents\visual studio 2013\Projects\Torres.Lucas.2\VistaConsola\bin\Debug\VistaConsola.pdb
+c:\users\lucas\documents\visual studio 2013\Projects\Torres.Lucas.2\VistaConsola\bin\Debug\Entidades.dll
+c:\users\lucas\documents\visual studio 2013\Projects\Torres.Lucas.2\VistaConsola\bin\Debug\Entidades.pdb
+c:\users\lucas\documents\visual studio 2013\Projects\Torres.Lucas.2\VistaConsola\obj\Debug\VistaConsola.csprojResolveAssemblyReference.cache
+c:\users\lucas\documents\visual studio 2013\Projects\Torres.Lucas.2\VistaConsola\obj\Debug\VistaConsola.exe
+c:\users\lucas\documents\visual studio 2013\Projects\Torres.Lucas.2\VistaConsola\obj\Debug\VistaConsola.pdb

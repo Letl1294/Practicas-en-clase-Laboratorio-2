@@ -1,0 +1,5 @@
+c:\users\lucas\documents\visual studio 2013\Projects\Torres.Lucas.2\Entidades\bin\Debug\Entidades.dll
+c:\users\lucas\documents\visual studio 2013\Projects\Torres.Lucas.2\Entidades\bin\Debug\Entidades.pdb
+c:\users\lucas\documents\visual studio 2013\Projects\Torres.Lucas.2\Entidades\obj\Debug\Entidades.dll
+c:\users\lucas\documents\visual studio 2013\Projects\Torres.Lucas.2\Entidades\obj\Debug\Entidades.pdb
+c:\users\lucas\documents\visual studio 2013\Projects\Torres.Lucas.2\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache

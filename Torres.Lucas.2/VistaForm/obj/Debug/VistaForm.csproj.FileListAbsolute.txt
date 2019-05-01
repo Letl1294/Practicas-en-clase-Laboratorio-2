@@ -1,0 +1,11 @@
+c:\users\lucas\documents\visual studio 2013\Projects\Torres.Lucas.2\VistaForm\bin\Debug\VistaForm.exe.config
+c:\users\lucas\documents\visual studio 2013\Projects\Torres.Lucas.2\VistaForm\bin\Debug\VistaForm.exe
+c:\users\lucas\documents\visual studio 2013\Projects\Torres.Lucas.2\VistaForm\bin\Debug\VistaForm.pdb
+c:\users\lucas\documents\visual studio 2013\Projects\Torres.Lucas.2\VistaForm\bin\Debug\Entidades.dll
+c:\users\lucas\documents\visual studio 2013\Projects\Torres.Lucas.2\VistaForm\bin\Debug\Entidades.pdb
+c:\users\lucas\documents\visual studio 2013\Projects\Torres.Lucas.2\VistaForm\obj\Debug\VistaForm.csprojResolveAssemblyReference.cache
+c:\users\lucas\documents\visual studio 2013\Projects\Torres.Lucas.2\VistaForm\obj\Debug\VistaForm.CrearPickUp.resources
+c:\users\lucas\documents\visual studio 2013\Projects\Torres.Lucas.2\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
+c:\users\lucas\documents\visual studio 2013\Projects\Torres.Lucas.2\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.Cache
+c:\users\lucas\documents\visual studio 2013\Projects\Torres.Lucas.2\VistaForm\obj\Debug\VistaForm.exe
+c:\users\lucas\documents\visual studio 2013\Projects\Torres.Lucas.2\VistaForm\obj\Debug\VistaForm.pdb

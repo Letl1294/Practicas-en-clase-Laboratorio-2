@@ -1,0 +1,11 @@
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\TORRES.LUCAS.2C\VistaForm\bin\Debug\VistaForm.exe.config
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\TORRES.LUCAS.2C\VistaForm\bin\Debug\VistaForm.exe
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\TORRES.LUCAS.2C\VistaForm\bin\Debug\VistaForm.pdb
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\TORRES.LUCAS.2C\VistaForm\bin\Debug\Entidades.dll
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\TORRES.LUCAS.2C\VistaForm\bin\Debug\Entidades.pdb
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\TORRES.LUCAS.2C\VistaForm\obj\Debug\VistaForm.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\TORRES.LUCAS.2C\VistaForm\obj\Debug\VistaForm.Form1.resources
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\TORRES.LUCAS.2C\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\TORRES.LUCAS.2C\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.Cache
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\TORRES.LUCAS.2C\VistaForm\obj\Debug\VistaForm.exe
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\TORRES.LUCAS.2C\VistaForm\obj\Debug\VistaForm.pdb
