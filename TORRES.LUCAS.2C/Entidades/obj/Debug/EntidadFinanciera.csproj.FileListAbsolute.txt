@@ -1,0 +1,6 @@
+C:\Users\lucas\Desktop\VisualStudio\PracticasEnClaseLaboratorio2\TORRES.LUCAS.2C\Entidades\bin\Debug\Entidades.dll
+C:\Users\lucas\Desktop\VisualStudio\PracticasEnClaseLaboratorio2\TORRES.LUCAS.2C\Entidades\bin\Debug\Entidades.pdb
+C:\Users\lucas\Desktop\VisualStudio\PracticasEnClaseLaboratorio2\TORRES.LUCAS.2C\Entidades\obj\Debug\EntidadFinanciera.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\VisualStudio\PracticasEnClaseLaboratorio2\TORRES.LUCAS.2C\Entidades\obj\Debug\EntidadFinanciera.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\VisualStudio\PracticasEnClaseLaboratorio2\TORRES.LUCAS.2C\Entidades\obj\Debug\Entidades.dll
+C:\Users\lucas\Desktop\VisualStudio\PracticasEnClaseLaboratorio2\TORRES.LUCAS.2C\Entidades\obj\Debug\Entidades.pdb

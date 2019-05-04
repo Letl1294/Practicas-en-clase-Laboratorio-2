@@ -16,7 +16,7 @@ namespace EntidadFinanciera
         {
             get
             {
-                return InteresEnDolares;
+                return CalcularInteresGanando(TipoDePrestamo.Dolares);
             }
         }
 
@@ -24,7 +24,7 @@ namespace EntidadFinanciera
         {
             get
             {
-                return InteresEnPesos;
+                return CalcularInteresGanando(TipoDePrestamo.Pesos);
             }
         }
 
@@ -32,7 +32,7 @@ namespace EntidadFinanciera
         {
             get
             {
-                return InteresesTotales; 
+                return CalcularInteresGanando(TipoDePrestamo.Todos);
             }
         }
 
@@ -54,7 +54,37 @@ namespace EntidadFinanciera
 
         private float CalcularInteresGanando(TipoDePrestamo tipoPrestamo)
         {
-            return 2;
+            float intereses=0;
+
+            switch (tipoPrestamo)
+            {
+                case TipoDePrestamo.Dolares:
+                foreach (Prestamo prestamo in this.ListaDePrestamos)
+                {
+                    if (prestamo is PrestamoDolar)
+                    {
+                        intereses += ((PrestamoDolar)(prestamo)).Interes;
+                    }
+                 
+                }
+                break;
+
+                case TipoDePrestamo.Pesos:
+                foreach(Prestamo prestamo in this.ListaDePrestamos)
+                {
+                    if(prestamo is PrestamoPesos)
+                    {
+                        intereses += ((PrestamoPesos)(prestamo)).Interes;
+                    }
+                }
+                break;
+
+                case TipoDePrestamo.Todos:
+                intereses +=this.InteresEnDolares+this.InteresEnPesos;
+                break;
+            }
+     
+            return intereses;
         }
 
         private Financiera()
@@ -69,23 +99,35 @@ namespace EntidadFinanciera
 
         public static string Mostrar(Financiera financiera)
         {
-            return "";
+            return (string)financiera;
         }
 
         public void OrdenarPrestamos()
         {
-
+            this.ListaDePrestamos.Sort(Prestamo.OrdenarPorFecha);
         }
 
         public static explicit operator string(Financiera financiera)
         {
             StringBuilder datos = new StringBuilder();
-            datos.AppendFormat("Razon Social: {0}",financiera.RazonSocial);
-            datos.AppendFormat("\nIntereses ganados: {0}",financiera.InteresesTotales);
-            datos.AppendFormat("\nIntereses en Dolares:{0}",financiera.InteresEnDolares);
-            datos.AppendFormat("\nIntereses en Pesos:{0}",financiera.InteresEnPesos);
-            
+            datos.AppendFormat("Razon Social: {0}", financiera.RazonSocial);
+            datos.AppendFormat("\nIntereses ganados: {0}", financiera.InteresesTotales);
+            datos.AppendFormat("\nIntereses en Dolares:{0}", financiera.InteresEnDolares);
+            datos.AppendFormat("\nIntereses en Pesos:{0}", financiera.InteresEnPesos);
 
+            foreach (Prestamo prestamo in financiera.ListaDePrestamos)
+            {
+                if(prestamo is PrestamoPesos)
+                {
+                    datos.AppendLine(prestamo.Mostrar());
+                    datos.Append(TipoDePrestamo.Pesos);
+                }
+                else
+                {
+                    datos.AppendLine(prestamo.Mostrar());
+                    datos.Append(TipoDePrestamo.Dolares);
+                }
+            }
             return datos.ToString();
         }
 
@@ -96,14 +138,19 @@ namespace EntidadFinanciera
 
         public static bool operator ==(Financiera financiera, Prestamo prestamo)
         {
-            if (financiera == prestamo)
+            if (financiera.ListaDePrestamos.Contains(prestamo))
+            {
                 return true;
+            }
             return false;
         }
 
         public static Financiera operator +(Financiera financiera, Prestamo prestamosNuevo)
         {
-            financiera.ListaDePrestamos.Add(prestamosNuevo);
+            if(financiera!=prestamosNuevo)
+            {
+                financiera.ListaDePrestamos.Add(prestamosNuevo);
+            }
             return financiera;
         }
 

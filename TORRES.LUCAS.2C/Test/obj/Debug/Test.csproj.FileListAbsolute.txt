@@ -1,0 +1,10 @@
+C:\Users\lucas\Desktop\VisualStudio\PracticasEnClaseLaboratorio2\TORRES.LUCAS.2C\Test\bin\Debug\Test.exe.config
+C:\Users\lucas\Desktop\VisualStudio\PracticasEnClaseLaboratorio2\TORRES.LUCAS.2C\Test\bin\Debug\Test.exe
+C:\Users\lucas\Desktop\VisualStudio\PracticasEnClaseLaboratorio2\TORRES.LUCAS.2C\Test\bin\Debug\Test.pdb
+C:\Users\lucas\Desktop\VisualStudio\PracticasEnClaseLaboratorio2\TORRES.LUCAS.2C\Test\bin\Debug\Entidades.dll
+C:\Users\lucas\Desktop\VisualStudio\PracticasEnClaseLaboratorio2\TORRES.LUCAS.2C\Test\bin\Debug\Entidades.pdb
+C:\Users\lucas\Desktop\VisualStudio\PracticasEnClaseLaboratorio2\TORRES.LUCAS.2C\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\VisualStudio\PracticasEnClaseLaboratorio2\TORRES.LUCAS.2C\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\VisualStudio\PracticasEnClaseLaboratorio2\TORRES.LUCAS.2C\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\lucas\Desktop\VisualStudio\PracticasEnClaseLaboratorio2\TORRES.LUCAS.2C\Test\obj\Debug\Test.exe
+C:\Users\lucas\Desktop\VisualStudio\PracticasEnClaseLaboratorio2\TORRES.LUCAS.2C\Test\obj\Debug\Test.pdb
