@@ -1,0 +1,11 @@
+E:\Torres.Lucas.2C\Torres.Lucas.2C\ComiqueriaApp\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.dll
+E:\Torres.Lucas.2C\Torres.Lucas.2C\ComiqueriaApp\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.pdb
+E:\Torres.Lucas.2C\Torres.Lucas.2C\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.csproj.CoreCompileInputs.cache
+E:\Torres.Lucas.2C\Torres.Lucas.2C\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.dll
+E:\Torres.Lucas.2C\Torres.Lucas.2C\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.pdb
+C:\Users\alumno\Desktop\Torres.Lucas.2C\Torres.Lucas.2C\ComiqueriaApp\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.dll
+C:\Users\alumno\Desktop\Torres.Lucas.2C\Torres.Lucas.2C\ComiqueriaApp\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.pdb
+C:\Users\alumno\Desktop\Torres.Lucas.2C\Torres.Lucas.2C\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Torres.Lucas.2C\Torres.Lucas.2C\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Torres.Lucas.2C\Torres.Lucas.2C\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.dll
+C:\Users\alumno\Desktop\Torres.Lucas.2C\Torres.Lucas.2C\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.pdb
